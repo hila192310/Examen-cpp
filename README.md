@@ -1,2 +1,3 @@
 Nombre: Hillary Vanessa Mora Arguedas
-Línea
+Línea | Justificación            |Corrección
+8     | Poner un ; al final del }|};
